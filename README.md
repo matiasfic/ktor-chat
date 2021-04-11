@@ -1,7 +1,7 @@
 # ktor-chat
 Small chat application with Ktor and WebSockets
 
-###Run locally
+### Run locally
 
 ```shell
 ./gradlew run
